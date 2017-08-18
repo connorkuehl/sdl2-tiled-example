@@ -8,7 +8,7 @@ This repository's *only* focus is on demonstrating how to load and render Tiled 
 
 ## Credit
 
-The tileset I used in the example Tiled map was the result of Hyptosis's hard work at [opengameart.org](https://opengameart.org/). Check out his [website](http://www.lorestrome.com/) or his [opengameart profile](https://opengameart.org/users/hyptosis).
+The tileset I used in the example Tiled map was the result of Hyptosis's hard work at [opengameart.org](https://opengameart.org/). Check out their [website](http://www.lorestrome.com/) or their [opengameart profile](https://opengameart.org/users/hyptosis).
 
 ## Pre-requisites
 
