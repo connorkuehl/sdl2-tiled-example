@@ -1,6 +1,6 @@
 ## How to Load and Render Tiled Maps in Your SDL2 Game
 
-![Tiled Map Example](screenshots/example.png)
+![Tiled Map Example](screenshots/example.png?raw=true)
 
 **This repository contains sample code for [my article on loading and rendering Tiled maps in SDL2](#).**
 
