@@ -2,7 +2,7 @@
 
 ![Tiled Map Example](screenshot/example.png?raw=true)
 
-**This repository contains sample code for [my article on loading and rendering Tiled maps in SDL2](#).**
+**This repository contains sample code for [my article on loading and rendering Tiled maps in SDL2](https://codeofconnor.wordpress.com/2017/08/18/how-to-load-and-render-tiled-maps-in-your-sdl2-game/).**
 
 This repository's *only* focus is on demonstrating how to load and render Tiled maps in SDL2. The rest of the code is a quick and dirty set-up for the Tiled level loading functionality to stand on and should not be used or regarded as good game design with SDL2.
 
