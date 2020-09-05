@@ -127,7 +127,7 @@ void level::load(const std::string& path, SDL_Renderer* ren) {
 
                 // Calculate the area on the tilesheet to draw from.
                 auto region_x = (cur_gid % (ts_width / tile_width)) * tile_width;
-                auto region_y = (cur_gid / (ts_width / tile_height)) * tile_height;
+                auto region_y = (cur_gid / (ts_width / tile_width)) * tile_height;
 
                 // Calculate the world position of our tile. This is easy,
                 // because we're using nested for-loop to visit each x,y
